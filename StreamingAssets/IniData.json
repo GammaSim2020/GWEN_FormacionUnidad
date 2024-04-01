@@ -1,0 +1,60 @@
+{
+   "ScreenIndex":[
+      1,
+      2,
+      3
+   ],
+   "ClientIP":"192.243.12.5",
+   "ClientPort":26290,
+   "RegionsData":{
+      "MainFolder":"\\\\nacl0400\\INTERREGIONAL\\GAMMA\\03 ESCENARIOS",
+      "RegionDictionary":{
+         "DRNA_B":{
+            "AirportDictionary":{
+               "LEMH":{
+                  "AirportName":"LEMH",
+                  "AirportDirectory":"\\\\nacl0400\\INTERREGIONAL\\GAMMA\\03 ESCENARIOS\\DRNA_B\\LEMH",
+                  "Exercises":[
+                     "Eje01",
+                     "Eje02"
+                  ]
+               }
+            },
+            "RegionName":"DRNA_B",
+            "AirportsList":null,
+            "RegionNameFolder":null
+         },
+         "DRNA_C":{
+            "AirportDictionary":{
+               "GCLP":{
+                  "AirportName":"GCLP",
+                  "AirportDirectory":"\\\\nacl0400\\INTERREGIONAL\\GAMMA\\03 ESCENARIOS\\DRNA_C\\LEMH",
+                  "Exercises":[
+                     "Eje01",
+                     "Eje02"
+                  ]
+               },
+               "GCTS":{
+                  "AirportName":"GCTS",
+                  "AirportDirectory":"\\\\nacl0400\\INTERREGIONAL\\GAMMA\\03 ESCENARIOS\\DRNA_C\\GCTS",
+                  "Exercises":[
+                     "Eje01",
+                     "Eje02"
+                  ]
+               },
+               "GCXO":{
+                  "AirportName":"GCXO",
+                  "AirportDirectory":"\\\\nacl0400\\INTERREGIONAL\\GAMMA\\03 ESCENARIOS\\DRNA_C\\GCXO",
+                  "Exercises":[
+                     "Eje01",
+                     "Eje02"
+                  ]
+               }
+            },
+            "RegionName":"DRNA_C",
+            "AirportsList":null,
+            "RegionNameFolder":null
+         }
+      }
+   }
+}
