@@ -22,25 +22,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -64,25 +64,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -105,25 +105,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -147,25 +147,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -191,25 +191,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -234,25 +234,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -277,25 +277,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -320,25 +320,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -361,25 +361,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -403,25 +403,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -444,25 +444,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -483,25 +483,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -526,25 +526,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       },
@@ -571,25 +571,25 @@
 		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
-               "NotInitLvl":20,
-               "FreezeLvl":20,
-               "WrongLvl":20,
-               "ExceedLvl":20
+               "NotInitLvl":5,
+               "NotInitLvl":5,
+               "WrongLvl":5,
+               "ExceedLvl":5
             },
             "SpeedProbs":{
-               "WrongSpd":80
+               "WrongSpd":5
             },
             "RateProbs":{
-               "WrongRate":80
+               "WrongRate":5
             },
             "HdgProbs":{
-               "TurnHdg":20,
-               "FreezeHdg":20,
-               "LeaveHdg":20,
-               "ExceedHdg":20
+               "TurnHdg":5,
+               "FreezeHdg":5,
+               "LeaveHdg":5,
+               "ExceedHdg":5
             },
             "RouteProbs":{
-               "WrongRoute":80
+               "WrongRoute":5
             }
          }
       }

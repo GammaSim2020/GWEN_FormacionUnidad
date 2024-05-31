@@ -12,25 +12,25 @@
             "TrueAirSpeed":447,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -55,25 +55,25 @@
             "TrueAirSpeed":456,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -98,25 +98,25 @@
             "TrueAirSpeed":451,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -142,25 +142,25 @@
             "TrueAirSpeed":462,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -185,25 +185,25 @@
             "TrueAirSpeed":453,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -228,25 +228,25 @@
             "TrueAirSpeed":470,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -271,25 +271,25 @@
             "TrueAirSpeed":460,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -315,25 +315,25 @@
             "TrueAirSpeed":447,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -358,25 +358,25 @@
             "TrueAirSpeed":454,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -400,25 +400,25 @@
             "TrueAirSpeed":449,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -444,25 +444,25 @@
             "TrueAirSpeed":447,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -485,25 +485,25 @@
             "TrueAirSpeed":454,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -528,25 +528,25 @@
             "TrueAirSpeed":450,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -572,25 +572,25 @@
             "TrueAirSpeed":470,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -613,25 +613,25 @@
             "TrueAirSpeed":456,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -659,25 +659,25 @@
             "TrueAirSpeed":449,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -702,25 +702,25 @@
             "TrueAirSpeed":444,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -745,25 +745,25 @@
             "TrueAirSpeed":443,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -788,25 +788,25 @@
             "TrueAirSpeed":451,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -831,25 +831,25 @@
             "TrueAirSpeed":462,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -873,25 +873,25 @@
             "TrueAirSpeed":444,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -916,25 +916,25 @@
             "TrueAirSpeed":443,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -959,25 +959,25 @@
             "TrueAirSpeed":451,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -1002,25 +1002,25 @@
             "TrueAirSpeed":462,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -1044,25 +1044,25 @@
             "TrueAirSpeed":444,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -1085,25 +1085,25 @@
             "TrueAirSpeed":453,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
@@ -1127,25 +1127,25 @@
             "TrueAirSpeed":443,
             "ErrorProbs":{
                "LvlProbs":{
-                  "NotInitLvl":20,
-                  "FreezeLvl":20,
-                  "WrongLvl":20,
-                  "ExceedLvl":20
+                  "NotInitLvl":5,
+                  "FreezeLvl":5,
+                  "WrongLvl":5,
+                  "ExceedLvl":5
                },
                "SpeedProbs":{
-                  "WrongSpd":80
+                  "WrongSpd":5
                },
                "RateProbs":{
-                  "WrongRate":80
+                  "WrongRate":5
                },
                "HdgProbs":{
-                  "TurnHdg":20,
-                  "FreezeHdg":20,
-                  "LeaveHdg":20,
-                  "ExceedHdg":20
+                  "TurnHdg":5,
+                  "FreezeHdg":5,
+                  "LeaveHdg":5,
+                  "ExceedHdg":5
                },
                "RouteProbs":{
-                  "WrongRoute":80
+                  "WrongRoute":5
                }
             },
             "Rate":2000,
